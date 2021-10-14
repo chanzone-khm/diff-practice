@@ -1,3 +1,3 @@
 # diff-practice
 diff練習用
-変更Staging用(1st)
+変更Working Directory用(3rd)
