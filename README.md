@@ -4,3 +4,4 @@ diff練習用
 mergetoolコンフリクト用(featureブランチ)
 
 test issues#1 の内容を反映  
+複数のissues #4 #5を修正  
